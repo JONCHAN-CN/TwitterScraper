@@ -1,0 +1,6 @@
+browser:
+  lang: en_US
+  url: https://twitter.com
+  prd_url: https://twitter.com
+  user_agent:
+  user_data_dir: ./sel
